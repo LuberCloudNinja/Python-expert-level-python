@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../AWS/BOTO3/.idea/BOTO3.iml" filepath="$PROJECT_DIR$/../../AWS/BOTO3/.idea/BOTO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/expert-level-python.iml" filepath="$PROJECT_DIR$/.idea/expert-level-python.iml" />
+    </modules>
+  </component>
+</project>
