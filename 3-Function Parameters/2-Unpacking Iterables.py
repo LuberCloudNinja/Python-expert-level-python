@@ -131,7 +131,7 @@ print('=================')
 
 d = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
 
-for num, (keys, values) in enumerate(d.items()):
+for num, (keys, values) in enumerate(d.items(), start=1):
     print(f"{num}-{keys}:{values}")
 
 
