@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90980559-5457-42bf-a57b-c3c6cd21b10a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/expert-level-python 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.1-Variables-And-Memory/.idea/1.1-Variables-And-Memory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.expert-level-python 2.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2-Variables-And-Memory/1-Variable-are-memory-references.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.2-Variables-And-Memory/1-Variable-are-memory-references.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +33,21 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/4-First-Class Functions/2-Lambda Expressions.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/A Quick Refresh - Basic Review/5-Foor loop.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/4-Object-Mutability.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/2-Reference-Counting.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/6-Variable-Equality.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/A Quick Refresh - Basic Review/7-Catch-up-Notes.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1.2-Variables-And-Memory/3-Garbage-collections.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1.2-Variables-And-Memory/1-Variable-are-memory-references.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/A Quick Refresh - Basic Review/6-OOP.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/1.2-Variables-And-Memory/2-Reference-Counting.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/5-Function-Arguments-And-Mutability.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/3-Garbage-Collection.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quick-Refresh-Last-Review/6-Classes.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/7-Everything-is-an-Object.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/A Quick Refresh - Basic Review/6-OOP.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/4-First-Class Functions/2-Lambda Expressions.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/1.1-Variables-And-Memory/1-Variables-Are-Memory-References.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/A Quick Refresh - Basic Review/5-Foor loop.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/A Quick Refresh - Basic Review/7-Catch-up-Notes.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1eZU6ww2dz0vkuY8Cy9E2T73hVa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,7 +69,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2-Reference-Counting">
+  <component name="RunManager" selected="Python.3-Garbage-collections">
     <configuration name="1-Variable-are-memory-references" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="expert-level-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +112,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3-Garbage-collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="expert-level-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.2-Variables-And-Memory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2-Variables-And-Memory/3-Garbage-collections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4-Closure Application(part1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="expert-level-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,27 +146,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-Scope, Closures and Decorators/4-Closure Application(part1).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4-The-While-Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="expert-level-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick-Refresh-Last-Review" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick-Refresh-Last-Review/4-The-While-Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3-Garbage-collections" />
         <item itemvalue="Python.2-Reference-Counting" />
         <item itemvalue="Python.1-Variable-are-memory-references" />
         <item itemvalue="Python.6-Classes" />
         <item itemvalue="Python.5-The-for-loop" />
-        <item itemvalue="Python.4-The-While-Loop" />
       </list>
     </recent_temporary>
   </component>
